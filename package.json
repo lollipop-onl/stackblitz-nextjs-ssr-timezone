@@ -1,0 +1,9 @@
+{
+    "name": "stackblitz-nextjs-ssr-timezone",
+    "version": "1.0.0",
+    "private": true,
+    "repository": "git@github.com:lollipop-onl/stackblitz-nextjs-ssr-timezone.git",
+    "author": "lollipop-onl <lollipop@simochee.net>",
+    "license": "MIT"
+  }
+  
